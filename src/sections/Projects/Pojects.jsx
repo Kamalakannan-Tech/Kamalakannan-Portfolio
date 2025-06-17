@@ -30,7 +30,7 @@ function Pojects() {
             />
             <ProjectCard 
               src={profile} 
-              link='https://github.com/Kamalakannan-Tech/NetflixClone' 
+              link='https://github.com/Kamalakannan-Tech/Kamalakannan-Portfolio' 
               h3='Portfolio' 
               p='React Portfolio'
             />
