@@ -26,7 +26,7 @@ function Pojects() {
               src={internals} 
               link='https://github.com/Kamalakannan-Tech/Internal-calculator' 
               h3='IntraCalc' 
-              p='Claculate Internals'
+              p='Calculate Internals'
             />
             <ProjectCard 
               src={profile} 
